@@ -22,7 +22,7 @@
 
 - 가상 컴퓨팅과 다른점
 
-  ![image-20190710233332005](/Users/alpineviolet/Library/Application Support/typora-user-images/image-20190710233332005.png)
+  ![image](https://user-images.githubusercontent.com/40848630/60985353-50e37e00-a378-11e9-8377-ccea9c2dfcc0.png)
 
   - 가상 컴퓨팅은 한 물리적 컴퓨터안에 각각 OS를 가동하는 가상 컴퓨터들이 물리적 자원을 분할해서 쓰기 때문에 성능에 한계가 생김
   - 도커는 OS단까지 내려가는 게 아니라 실행환경만 독립적으로 돌리기 때문에 가상 컴퓨팅보다 빠름 (실제 설치한 것과 거의 비슷)
@@ -73,7 +73,7 @@
 
 - http://0.0.0.0:80 하면 아래처럼 뜸.. 왜뜸? 
 
-  ![image-20190711001841127](/Users/alpineviolet/Library/Application Support/typora-user-images/image-20190711001841127.png)
+  ![image](https://user-images.githubusercontent.com/40848630/60985312-3a3d2700-a378-11e9-982c-f77f82a8f501.png)
 
 - 뭔말인지 모르겠음,,,,
 
